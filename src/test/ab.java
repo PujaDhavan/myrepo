@@ -7,8 +7,10 @@ public class ab {
 		
 		System.out.println("hi");
 		System.out.println("hello");
-		syso("changes from master branch");
+		System.out.println("changes from master branch");
 		System.out.println("hello4 puja");
+		System.out.println("hello5 puja");
+
 	}
 
 }
